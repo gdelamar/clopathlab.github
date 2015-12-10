@@ -1,0 +1,16 @@
+---
+- title: EPSRC (Engineering and Physical Sciences Research Council)
+  link: https://www.epsrc.ac.uk/
+  image: epsrc.png
+
+- title: Leverhulme Trust
+  link: https://www.leverhulme.ac.uk/
+  image: leverhulme.png
+
+- title: Wellcome Trust
+  link: http://www.wellcome.ac.uk/
+  image: wellcome.png
+
+- title: Google Faculty Research Award
+  link: http://research.google.com/university/relations/research_awards.html
+  image: google.png

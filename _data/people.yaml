@@ -1,0 +1,45 @@
+---
+- name: Claudia Clopath 
+  position: Principal Investigator 
+  image: claudia_cropped.jpg
+  link: claudia_clopath
+
+- name: Jacopo Bono 
+  position: PhD Student 
+  image: Jacopo_cropped.jpg 
+
+- name: Guillaume Pernelle 
+  position: PhD Student 
+  image: Guillaume_cropped.jpg 
+
+- name: Sara Zanonne 
+  position: PhD Student 
+  image: Sara_cropped.jpg 
+
+- name: Catriona Egan 
+  position: PhD Student, co-supervised by Paul Chadderton 
+  image: catriona_cropped.jpg 
+
+- name: Cher Bachar 
+  position: PhD Student, co-supervised by Vincenzo De Paola and Anil Bharath 
+  image: Cher_cropped.jpg 
+
+- name: Yann Sweeney 
+  position: Post-doc 
+  image: yann_cropped.jpg 
+
+- name: Victor Pedrosa 
+  position: PhD Student 
+  image: Victor_cropped.jpg 
+
+- name: Darije Custovic 
+  position: PhD Student, co-supervised by Adam Hampshire 
+  image: johndoe.png 
+
+- name: Peter Hellyer 
+  position: Post-doc, Sir Henry Wellcome Postdoctoral Fellow 
+  image: peter_cropped.jpg 
+
+- name: Wilten Nicola 
+  position: Post-doc 
+  image: wilten_cropped.jpg 

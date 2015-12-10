@@ -1,0 +1,25 @@
+---
+- title: Network with electrical synapses and subthreshold resonance
+  hosting: ModelDB
+  link: http://senselab.med.yale.edu/modeldb/ShowModel.asp?model=168599
+  publications: [2]
+
+- title: VOR model
+  hosting: ModelDB
+  link: http://senselab.med.yale.edu/modeldb/ShowModel.asp?model=167875
+  publications: [3]
+
+- title: Inhibitory plasticity model
+  hosting: ModelDB
+  link: http://senselab.med.yale.edu/modeldb/ShowModel.asp?model=143751
+  publications: [10,11]
+
+- title: TagTriC model
+  hosting: ModelDB
+  link: http://senselab.med.yale.edu/modeldb/ShowModel.asp?model=118199
+  publications: [12]
+
+- title: Adaptive Exponential Integrate-and-Fire model
+  hosting: ModelDB
+  link: http://senselab.med.yale.edu/modeldb/ShowModel.asp?model=153635
+  publications: [14,15]

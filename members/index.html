@@ -1,0 +1,26 @@
+---
+layout: noimage
+group: navigation
+linkname: people
+title: Lab Members - Computational Neuroscience Laboratory
+pagetitle : Lab Members
+---
+{% include {{ site.baseurl }}/JB/setup %}
+
+<div class="row people">
+
+{% for people in site.data.people %}
+    <div class="col-md-3 text-center box">
+        {% if people.link != null %}
+            <a href="{{site.baseurl}}/members/{{ people.link}}"><img src="../assets/images/{{people.image}}" class="img-circle"></a>
+            <a href="{{site.baseurl}}/members/{{ people.link}}"><h4>{{people.name}}</h4></a>
+        {% else %}
+            <img src="../assets/images/{{people.image}}" class="img-circle">
+            <h4>{{people.name}}</h4>
+        {% endif %}
+
+        <h5>{{people.position}}</h5>
+    </div>
+
+{% endfor %}
+</div>

@@ -1,0 +1,170 @@
+---
+theme :
+  name : bootstrap
+---
+{% include JB/setup %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>{{ page.title }}</title>
+  {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+  <meta name="author" content="{{ site.author.name }}">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link href="{{ ASSET_PATH }}/resources/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="./assets/css/owl.theme.css" rel="stylesheet">
+  <link href="./assets/css/owl.carousel.css" rel="stylesheet">
+  <link href="./assets/css/magnific-popup.css" rel="stylesheet">
+  <link href="./assets/css/simpletextrotator.css" rel="stylesheet">
+  <link href="./assets/css/style.css" rel="stylesheet">
+  <link href="./assets/css/animate.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
+  <!--[if lt IE 9]>
+  <script src="./assets/resources/respond/Respond.min.js"></script>
+  <![endif]-->
+</head>
+
+
+<body>
+<div class="wrapper">
+
+  <!-- Navigation start -->
+
+  <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
+      </div>
+
+      <div class="collapse navbar-collapse navbar-ex1-collapse">
+        <ul class="nav navbar-nav navbar-right">
+          {% assign pages_list = site.pages %}
+          {% assign group = 'navigation' %}
+          {% include JB/pages_list %}
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Navigation end -->
+
+  <!-- Intro section start -->
+
+  <section id="intro" class="section" style="position: relative; z-index: 0; background: none;">
+
+    <div class="container">
+
+      <div class="row">
+
+        <div class="col-md-12">
+
+          <div class="hello wow bounceInDown animated" style="visibility: visible;">
+            <h1>Computation Neuroscience Laboratory</h1>
+            <!--<h3><span class="rotate" style="text-shadow: black 0px 0px 0px; opacity: 1;"> Account Manager. | Customer Service Professional.</span></h3>-->
+          </div>
+
+          <a href="#title">
+            <div class="mouse-icon">
+              <div class="wheel"></div>
+            </div>
+          </a>
+
+        </div>
+
+      </div><!-- .row -->
+
+    </div><!-- .container -->
+  </section>
+
+  <!-- Intro section end -->
+
+  <!-- Profile contact callout section -->
+
+  <section id="profile-contact">
+
+    <div class="container">
+
+      <div class="row">
+
+        <div class="col-sm-4 wow bounceInLeft animated" style="visibility: visible;">
+          <div class="profile-item">
+            <i class="fa fa-envelope-o"></i>
+            <h5><SCRIPT TYPE="text/javascript">
+              <!--
+              // protected email script by Joe Maller
+              emailE='imperial.ac.uk'
+              emailE=('c.clopath' + '@' + emailE)
+              document.write('<A href="mailto:' + emailE + '">' + emailE + '</a>')
+              //-->
+            </script>
+
+              <NOSCRIPT>
+                <em>Email address protected by JavaScript.<BR>
+                  Please enable JavaScript to contact me.</em>
+              </NOSCRIPT></h5>
+          </div>
+        </div>
+
+        <div class="col-sm-4 wow bounceInUp animated" style="visibility: visible;">
+          <div class="profile-item">
+            <i class="fa fa-phone"></i>
+            <h5>+44 (0)20 7594 1435 </h5>
+          </div>
+        </div>
+
+        <div class="col-sm-4 wow bounceInRight animated" style="visibility: visible;">
+          <div class="profile-item">
+            <i class="fa fa-map-marker"></i>
+            <h5>Imperial College London, UK</h5>
+          </div>
+        </div>
+
+      </div><!-- .row -->
+
+    </div><!-- .container -->
+
+  </section>
+
+  <!-- Profile contact callout section -->
+
+  <div class="container" id="title">
+    {{ content }}
+    {% include _footer.html %}
+  </div>
+
+  {% include JB/analytics %}
+  <script src="{{ ASSET_PATH }}/resources/jquery/jquery.min.js"></script>
+  <script src="{{ ASSET_PATH }}/resources/bootstrap/js/bootstrap.min.js"></script>
+  <!-- Background slider -->
+  <script src="./assets/js/jquery.backstretch.min.js"></script>
+  <!-- OwlCarousel -->
+  <script src="./assets/js/owl.carousel.min.js"></script>
+  <!-- Modal for portfolio -->
+  <script src="./assets/js/jquery.magnific-popup.min.js"></script>
+  <!-- Text rotator -->
+  <script src="./assets/js/jquery.simple-text-rotator.min.js"></script>
+  <!-- Waypoints -->
+  <script src="./assets/js/jquery.waypoints.js"></script>
+  <!-- CountTo  -->
+  <script src="./assets/js/jquery.countTo.js"></script>
+  <!-- WOW - Reveal Animations When You Scroll -->
+  <script src="./assets/js/wow.min.js"></script>
+  <!-- Smooth scroll -->
+  <script src="./assets/js/smoothscroll.js"></script>
+  <!-- Fitvids -->
+  <script src="./assets/js/jquery.fitvids.js"></script>
+  <!-- Custom scripts -->
+  <script src="./assets/js/custom.js"></script>
+</div>
+</body>
+</html>

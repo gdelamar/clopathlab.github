@@ -1,0 +1,23 @@
+---
+layout: noimage
+group: navigation
+linkname: publications
+title: Publications - Computational Neuroscience Laboratory
+pagetitle : Publications
+---
+{% include JB/setup %}
+
+{% for publication in site.data.publications %}
+
+<div class ="row">
+<h3 class="publititle">{{ publication.title }}</h3>
+    <h4>{{ publication.authors }}</h4>
+
+    {% if publication.link != null %}
+        <a href="{{ publication.link}}"> {{ publication.journal }} </a>
+    {% else %}
+        {{ publication.journal }}
+    {% endif %}
+</div>
+<hr/>
+{% endfor %}

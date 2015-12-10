@@ -1,0 +1,96 @@
+---
+- title: "Emergence of Functional Specificity in Balanced Networks with Synaptic Plasticity"
+  authors: Sadeh S, Clopath C*, Rotter S*
+  journal: PLoS Comp. Biol., 2015,  doi:10.1371/journal.pcbi.1004307
+  link: http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004307
+  id: 0
+
+- title: "Processing of Feature Selectivity in Cortical Networks with Specific Connectivity"
+  authors: Sadeh S, Clopath C, Rotter S
+  journal: PLoS ONE, 2015,  doi:1    10.1371/journal.pone.0127547
+  link: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0127547
+  id: 1
+
+- title: "Oscillations emerging from noise-driven steady state in networks with electrical synapses and subthreshold resonance"
+  authors: Tchumatchenko T*, Clopath C*
+  journal: Nature Communications, 2014,5,5512, doi:10.1038/ncomms6512
+  link: http://www.nature.com/ncomms/2014/141118/ncomms6512/full/ncomms6512.html
+  id: 2
+
+- title: "A cerebellar learning model of vestibulo-ocular reflex adaptation in wild-type and mutant mice."
+  authors: Clopath C*, Badura A*, de Zeuuw CI and Brunel N
+  journal: Journal of Neuroscience, 2014, 34(21):7203-7215
+  id: 3
+
+- title: "Long Term Plasticity, Biophysical Models."
+  authors: Clopath C
+  journal: Encyclopedia of Computational Neuroscience, 2014, 10.1007/978-1-4614-7320-6_351-1
+  id: 3
+
+- title: "The emergence of functional microcircuits in visual cortex."
+  authors: Ko H*, Cossell L*, Baragli C, Antolik J, Clopath C, Hofer SB and Mrsic-Flogel TD
+  journal: Nature, 2013, 496, 96-100
+  id: 4
+
+- title: "Optimal properties of analog perceptrons with excitatory weights"
+  authors: Clopath C
+  journal: PLoS Computational Biolology, 2013, 9(2):e1002919
+  link: http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002919
+  id: 5
+
+- title: "Storage of correlated patterns in standard and bistable Purkinje cell models"
+  authors: Clopath C, Nadal JP and Brunel N
+  journal: PLoS Computational Biolology, 2012, 8(4):e1002448
+  link: http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002448
+  id: 6
+
+- title: "Inhibitory Plasticity Balances Excitation and Inhibition in Sensory Pathways and Memory Networks."
+  authors: Vogels TP*, Sprekeler H*, Zenke F, Clopath C and Gerstner W
+  journal: Science, 2011, 334(6062)1569-1573
+  id: 7
+
+- title: "A triplet spike-timing-dependent plasticity model generalizes the Bienenstock-Cooper-Munro rule to higher-order spatiotemporal correlations."
+  authors: Gjorgjieva J, Clopath C, Audet J and Pfister J-P
+  journal: PNAS, 2011, 108 (48), 19097-19098
+  id: 8
+
+- title: "Synaptic consolidation: an approach to long-term learning."
+  authors: Clopath C
+  journal: Cognitive Neurodynamics, 2011, 1-7
+  id: 9
+
+- title:  "Voltage and Spike Timing interact in STDP - a Unified Model"
+  authors:  Clopath C and Gerstner W
+  journal: Frontiers in Synaptic Neuroscience, 2010
+  link: http://frontiersin.org/neuroscience/synapticneuroscience/paper/10.3389/fnsyn.2010.00025/
+  id: 10
+
+- title:  "Connectivity reflects coding: A model of voltage-based spike-timing-dependent-plasticity with homeostasis"
+  authors:  Clopath C, Buesing L, Vasilaki E and Gerstner W
+  journal: Nature Neuroscience, 2010, 13, 344-352
+  link: http://precedings.nature.com/documents/3362/version/1
+  id: 11
+
+- title:  "Tag-Trigger-Consolidation: A model of early and late long-term potentation and depression"
+  authors:  Clopath C*, Ziegler L*, Vasilaki E, Buesing L and Gerstner W
+  journal: PLoS Computational Biolology, 2008, 4, e1000248
+  link: http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1000248
+  id: 12
+
+- title:  "An online Hebbian learning rule that performs Independent Component Analysis"
+  authors:  Clopath C, Longtin A and Gerstner W
+  journal: Advances in Neural Information Processing Systems 20, MIT Press, 2008, 312-328
+  link: http://books.nips.cc/papers/files/nips20/NIPS2007_0170.pdf
+  id: 13
+
+- title:  "Firing Patterns in the Adaptive Exponential Integrate-and-Fire"
+  authors:  Naud R, Marcille N, Clopath C and Gerstner W
+  journal:  Biological Cybernetics, 2008, 98:459-478 [
+  link: ./Publications/Naud08.pdf
+  id: 14
+
+- title:  "Predicting Neuronal Activity with Simple Models of the Threshold Type: Adaptive Exponential Integrate-and-Fire Model with Two Compartments"
+  authors:  Clopath C, Jolivet R, Rauch A, Luescher H-R and Gerstner W
+  journal: Neurocomputing, 2007, 70, 1668 - 1673
+  link: ./Publications/CNS2007.pdf
+  id: 15

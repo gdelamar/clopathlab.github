@@ -1,0 +1,23 @@
+---
+layout: noimage
+group: navigation
+linkname: fundings
+title: Fundings - Computational Neuroscience Laboratory
+pagetitle : Fundings
+---
+{% include JB/setup %}
+
+<p>We thank our fundings bodies.</p>
+
+<div class ="row vertical-align">
+{% for funding in site.data.fundings %}
+
+
+        <div class="col-xs-12 col-sm-6 text-center fundings">
+            <h3 class="publititle"><a href="{{funding.link}}">{{ funding.title }}</a></h3>
+            <img class="funding" src="assets/images/{{ funding.image}}"/>
+        </div>
+
+{% endfor %}
+
+</div>
