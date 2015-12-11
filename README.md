@@ -45,24 +45,12 @@ if the command 'gem install...' doesn't work, go to the end of the page for inst
 To avoid merge conflicts, it is good to update the repository before doing any changes locally
 
 ### a. Update your forked repository
-- Go to your local folder where you cloned the repo (2. b.) 
-- Add the upstream remote if not done already
-
-    git remote add upstream https://github.com/clopathlab/clopathlab.github.io.git
-    
-To verify that the remote where correctly configured type the following command, it should list 2 different 
-remotes
-    
-    git remote -v
+Go to your local folder where you cloned the repository 
 
 Fetch the last changes
 
     git fetch upstream
-    
-Check out your fork's local master branch.
-
-    git checkout master
-    
+     
 Merge the changes from upstream/master into your local master branch. This brings your fork's master branch into sync 
 with the upstream repository, without losing your local changes.
 
