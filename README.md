@@ -9,30 +9,19 @@ This static website is generated with Jekyll. Below, you will find the instructi
 
 a. and b. are probably not necessary. Try c. first and do a. and b. if c. doesn't work
 
-#### On OSX
-#### a. Install Ruby 
-- Go to <https://www.ruby-lang.org/en/documentation/installation/> and follow the instruction for your machine.
+### On OSX
 
-#### b. Install Rubygem (if the command 'gem install...' doesn't work)
-- Go to <https://rubygems.org/pages/download>
+   gem install jekyll
 
-#### c. Install Jekyll
-    gem install jekyll
+if the command 'gem install...' doesn't work, go to the end of the page for instructions how to install rubygem
     
 ### On Linux
 
-    sudo apt-get purge jekyll
-    sudo apt-get purge ruby
-    sudo apt-get purge nodejs
-    sudo apt-get purge npm
+    sudo apt-get purge jekyll ruby nodejs npm
     sudo apt-get autoclean
     sudo apt-get update
-    sudo apt-get install ruby
-    sudo apt-get install nodejs
-    sudo apt-get install npm
-    sudo apt-get install ruby-dev
+    sudo apt-get install ruby nodejs npm ruby-dev
     sudo gem install jekyll jekyll-watch
-
 
 ## 2. Modify the website: for the first time
 
@@ -141,7 +130,13 @@ You can create a new one if you like
 - <http://jekyllrb.com/>
 - <http://jekyllbootstrap.com>
 
-## Set up Git
+#### Install Ruby 
+- Go to <https://www.ruby-lang.org/en/documentation/installation/> and follow the instruction for your machine.
+   
+#### Install Rubygem (if the command 'gem install...' doesn't work)
+- Go to <https://rubygems.org/pages/download>
+
+#### Set up Git
     git config --global user.name "YOUR NAME"
     git config --global user.email "YOUR EMAIL ADDRESS"   
     
