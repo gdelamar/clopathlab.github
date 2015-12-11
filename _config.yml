@@ -1,7 +1,8 @@
 # This is the default format.
 # For more see: http://jekyllrb.com/docs/permalinks/
 port: 4001 # use port 4001 instead of 4000 (used by NoMachine)
-permalink: /:categories/:year/:month/:day/:title
+#permalink: /:categories/:year/:month/:day/:title
+permalink: pretty
 include: ['members']
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: pygments
