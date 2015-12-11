@@ -10,8 +10,9 @@ This static website is generated with Jekyll. Below, you will find the instructi
 a. and b. are probably not necessary. Try c. first and do a. and b. if c. doesn't work
 
 ### On OSX
-
-   gem install jekyll
+    
+    brew install node
+    gem install jekyll
 
 if the command 'gem install...' doesn't work, go to the end of the page for instructions how to install rubygem
     
