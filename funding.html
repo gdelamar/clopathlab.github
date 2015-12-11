@@ -1,20 +1,21 @@
 ---
 layout: noimage
 group: navigation
-linkname: fundings
-title: Fundings - Computational Neuroscience Laboratory
-pagetitle : Fundings
+linkname: funding
+title: Funding - Computational Neuroscience Laboratory
+pagetitle : Funding
+order: 5
 ---
 {% include JB/setup %}
 
-<p>We thank our fundings bodies.</p>
+<p>We thank our funding bodies.</p>
 
 <div class ="row vertical-align">
 {% for funding in site.data.fundings %}
 
 
         <div class="col-xs-12 col-sm-6 text-center fundings">
-            <h3 class="publititle"><a href="{{funding.link}}">{{ funding.title }}</a></h3>
+            <h3 class="funding"><a href="{{funding.link}}">{{ funding.title }}</a></h3>
             <img class="funding" src="assets/images/{{ funding.image}}"/>
         </div>
 

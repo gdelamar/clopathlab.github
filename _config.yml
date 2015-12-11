@@ -12,7 +12,7 @@ markdown: kramdown
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Clopath's Lab
+title : Clopath Lab
 tagline: Computational Neuroscience Laboratory
 author :
   name : A ClopathLab Production

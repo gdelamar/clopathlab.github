@@ -20,16 +20,19 @@
 - title: "A cerebellar learning model of vestibulo-ocular reflex adaptation in wild-type and mutant mice."
   authors: Clopath C*, Badura A*, de Zeuuw CI and Brunel N
   journal: Journal of Neuroscience, 2014, 34(21):7203-7215
+  link: http://www.jneurosci.org/content/34/21/7203.short
   id: 3
 
 - title: "Long Term Plasticity, Biophysical Models."
   authors: Clopath C
   journal: Encyclopedia of Computational Neuroscience, 2014, 10.1007/978-1-4614-7320-6_351-1
+  link: http://link.springer.com/content/pdf/10.1007/978-1-4614-7320-6_351-1.pdf
   id: 3
 
 - title: "The emergence of functional microcircuits in visual cortex."
   authors: Ko H*, Cossell L*, Baragli C, Antolik J, Clopath C, Hofer SB and Mrsic-Flogel TD
   journal: Nature, 2013, 496, 96-100
+  link: http://www.nature.com/nature/journal/v496/n7443/abs/nature12015.html
   id: 4
 
 - title: "Optimal properties of analog perceptrons with excitatory weights"
@@ -47,16 +50,19 @@
 - title: "Inhibitory Plasticity Balances Excitation and Inhibition in Sensory Pathways and Memory Networks."
   authors: Vogels TP*, Sprekeler H*, Zenke F, Clopath C and Gerstner W
   journal: Science, 2011, 334(6062)1569-1573
+  link: http://www.sciencemag.org/content/334/6062/1569.short
   id: 7
 
 - title: "A triplet spike-timing-dependent plasticity model generalizes the Bienenstock-Cooper-Munro rule to higher-order spatiotemporal correlations."
   authors: Gjorgjieva J, Clopath C, Audet J and Pfister J-P
   journal: PNAS, 2011, 108 (48), 19097-19098
+  link: http://www.pnas.org/content/108/48/19383.short
   id: 8
 
 - title: "Synaptic consolidation: an approach to long-term learning."
   authors: Clopath C
   journal: Cognitive Neurodynamics, 2011, 1-7
+  link: http://link.springer.com/article/10.1007/s11571-011-9177-6
   id: 9
 
 - title:  "Voltage and Spike Timing interact in STDP - a Unified Model"
@@ -86,11 +92,11 @@
 - title:  "Firing Patterns in the Adaptive Exponential Integrate-and-Fire"
   authors:  Naud R, Marcille N, Clopath C and Gerstner W
   journal:  Biological Cybernetics, 2008, 98:459-478 [
-  link: ./Publications/Naud08.pdf
+  link: http://link.springer.com/article/10.1007/s00422-008-0264-7
   id: 14
 
 - title:  "Predicting Neuronal Activity with Simple Models of the Threshold Type: Adaptive Exponential Integrate-and-Fire Model with Two Compartments"
   authors:  Clopath C, Jolivet R, Rauch A, Luescher H-R and Gerstner W
   journal: Neurocomputing, 2007, 70, 1668 - 1673
-  link: ./Publications/CNS2007.pdf
+  link: http://www.sciencedirect.com/science/article/pii/S0925231206003602
   id: 15

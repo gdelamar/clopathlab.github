@@ -26,7 +26,7 @@ img {
 }
 
 a {
-	color: #EF4836;
+	color: #2c4d94;
 }
 
 a:hover {
@@ -495,7 +495,7 @@ h3 > .fa {
 }
 
 .navbar-custom .navbar-brand {
-	font: 700 18px/1.2 'Montserrat', serif, sans-serif;
+	font: 700 26px/1.2 'Montserrat', serif, sans-serif;
 	color: #FFF;
 }
 
@@ -511,7 +511,7 @@ h3 > .fa {
 .navbar-custom .navbar-nav .dropdown-menu > li > a {
 	color: #FFF;
 	font-size: 16px;
-	font-weight: 400;
+	font-weight: 700;
 }
 
 .navbar-color,
@@ -519,6 +519,12 @@ h3 > .fa {
 	background: #FFF;
 	box-shadow: 0 0 4px rgba(0, 0, 0, .2);
 	padding: 0;
+	font-weight: 400;
+}
+
+.navbar-color .navbar-nav > li > a,
+.navbar-color .navbar-nav .dropdown-menu > li > a {
+	font-weight: 400;
 }
 
 .navbar-color .navbar-brand,
@@ -636,6 +642,10 @@ h3 > .fa {
 .publititle {
 	text-transform: none;
 }
+.funding a{
+	text-transform: none;
+	color: #0b0b0b;
+}
 
 #titlemember h1 {
 	padding-top: 40px;
@@ -647,6 +657,7 @@ h3 > .fa {
 .avatar {
 	width: 100%;
 	padding: 20px;
+	padding-left: 0px;
 	padding-top: 38px;
 }
 
