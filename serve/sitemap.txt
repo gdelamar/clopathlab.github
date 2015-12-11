@@ -1,0 +1,15 @@
+
+http://username.github.io/sitemap.txt
+http://username.github.io/rss.xml
+http://username.github.io/members/claudia_clopath.html
+http://username.github.io/members/index.html
+http://username.github.io/atom.xml
+http://username.github.io/contact.html
+http://username.github.io/publications.html
+http://username.github.io/code.html
+http://username.github.io/fundings.html
+http://username.github.io/hiring.html
+http://username.github.io/research.html
+http://username.github.io/index.html
+
+http://username.github.io/lessons/2011/12/29/jekyll-introduction
