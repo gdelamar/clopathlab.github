@@ -1,9 +1,11 @@
 ---
-layout: page
+layout: noimage
 group: navigation
 linkname: research
 title: Research in Computational Neuroscience Laboratory, London, UK
-pagetitle : Research in the CNL
+pagetitle : Research
+tagline: in the Computation Neuroscience Lab
+order: 0
 ---
 {% include JB/setup %}
 

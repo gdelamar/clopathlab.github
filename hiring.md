@@ -4,6 +4,7 @@ group: navigation
 linkname: job openings
 title: Job Openings Computational Neuroscience Laboratory, London, UK
 pagetitle : Jop Openings
+order: 3 
 ---
 {% include JB/setup %}
 
@@ -40,8 +41,8 @@ Candidates should send a single pdf file, consisting of a 1-page motivation lett
 to <SCRIPT TYPE="text/javascript">
                    <!--
                    // protected email script by Joe Maller
-                   emailE='imperial.ac.uk'
-                   emailE=('c.clopath' + '@' + emailE)
+                   emailE='gmail.com'
+                   emailE=('clopathlab.imperial' + '@' + emailE)
                    document.write('<A href="mailto:' + emailE + '">' + emailE + '</a>')
                    //-->
                  </script>. 
