@@ -26,7 +26,7 @@ if the command 'gem install...' doesn't work, go to the end of the page for inst
 
 ## Github Workflow
 
-![alt text](assets/images/gitworkflow.pdf)
+![alt text](assets/images/gitworkflow.png)
 
 ## 2. Modify the website: for the first time
 
