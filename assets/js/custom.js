@@ -43,18 +43,19 @@
 		var navbar = $('.navbar');
 		var navHeight = navbar.height();
 
-		if($("#intro").length === 0) {
-			navbar.addClass('navbar-color');
-		}
+		//if($("#intro").length === 0) {
+		//	navbar.addClass('navbar-color');
+		//}
+		navbar.addClass('navbar-color');
 
-		$(window).scroll(function() {
-			if($(this).scrollTop() >= navHeight || $("#intro").length === 0) {
-				navbar.addClass('navbar-color');
-			}
-			else {
-				navbar.removeClass('navbar-color');
-			}
-		});
+		//$(window).scroll(function() {
+		//	if($(this).scrollTop() >= navHeight || $("#intro").length === 0) {
+		//		navbar.addClass('navbar-color');
+		//	}
+		//	else {
+		//		navbar.removeClass('navbar-color');
+		//	}
+		//});
 
 		if($(window).width() <= 1000) {
 			navbar.addClass('custom-collapse');
