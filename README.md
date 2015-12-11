@@ -23,6 +23,11 @@ if the command 'gem install...' doesn't work, go to the end of the page for inst
     sudo apt-get install ruby nodejs npm ruby-dev
     sudo gem install jekyll jekyll-watch
 
+
+## Github Workflow
+
+![alt text](assets/images/gitworkflow.pdf)
+
 ## 2. Modify the website: for the first time
 
 ### a. Fork the repository
