@@ -9,14 +9,30 @@ This static website is generated with Jekyll. Below, you will find the instructi
 
 a. and b. are probably not necessary. Try c. first and do a. and b. if c. doesn't work
 
-### a. Install Ruby 
+#### On OSX
+#### a. Install Ruby 
 - Go to <https://www.ruby-lang.org/en/documentation/installation/> and follow the instruction for your machine.
 
-### b. Install Rubygem (if the command 'gem install...' doesn't work)
+#### b. Install Rubygem (if the command 'gem install...' doesn't work)
 - Go to <https://rubygems.org/pages/download>
 
-### c. Install Jekyll
+#### c. Install Jekyll
     gem install jekyll
+    
+### On Linux
+
+    sudo apt-get purge jekyll
+    sudo apt-get purge ruby
+    sudo apt-get purge nodejs
+    sudo apt-get purge npm
+    sudo apt-get autoclean
+    sudo apt-get update
+    sudo apt-get install ruby
+    sudo apt-get install nodejs
+    sudo apt-get install npm
+    sudo apt-get install ruby-dev
+    sudo gem install jekyll jekyll-watch
+
 
 ## 2. Modify the website: for the first time
 
