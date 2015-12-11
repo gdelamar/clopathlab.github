@@ -38,7 +38,7 @@ if the command 'gem install...' doesn't work, go to the end of the page for inst
 ### b. Clone the repository
     git clone https://github.com/YOUR-USERNAME/clopathlab.github.io
     cd clopathlab.github.io
-    git remote set-url origin git@github.com:YOUR-USERNAME/clopathlab.github.io.git
+    git remote set-url origin https://github.com/YOUR-USERNAME/clopathlab.github.io.git
     git remote add upstream https://github.com/clopathlab/clopathlab.github.io.git
 
 ## 2. Modify the website
