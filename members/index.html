@@ -9,11 +9,9 @@ order: 1
 {% include {{ site.baseurl }}/JB/setup %}
 
 <div class="row people">
-{% assign i=0 %}
 {% for people in site.data.people %}
-    {% assign i=i | plus: 1 %}
-    {% assign effects = "bounce,pulse,rubberBand,shake,swing,tada,wobble,bounceIn,bounceInDown,bounceInLeft,bounceInRight,bounceInUp,fadeIn,fadeInDown,fadeInDownBig,fadeInLeft,fadeInLeftBig,fadeInRight,fadeInRightBig,fadeInUp,fadeInUpBig,flip,lightSpeedIn,rotateIn,rotateInDownLeft,rotateInDownRight,rotateInUpLeft,rotateInUpRight,rollIn,zoomIn,zoomInDown,zoomInLeft,zoomInRight,zoomInUp" | split: ","] %}
-    <div class="col-md-3 text-center box wow {{ effects[i] }} animated 3s">
+
+    <div class="col-md-3 text-center box">
         {% if people.link != null %}
             <a href="{{site.baseurl}}/members/{{ people.link}}"><img src="../assets/images/{{people.image}}" class="img-circle"></a>
             <a href="{{site.baseurl}}/members/{{ people.link}}"><h4>{{people.name}}</h4></a>
