@@ -5,7 +5,7 @@ linkname: research
 title: Research in Computational Neuroscience Laboratory, London, UK
 pagetitle : Research
 tagline: in the Computation Neuroscience Lab
-order: 0
+order: 2
 ---
 {% include JB/setup %}
 
