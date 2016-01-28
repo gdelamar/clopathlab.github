@@ -1,4 +1,12 @@
 ---
+
+
+- title: "Local inhibitory plasticity tunes macroscopic brain dynamics and allows the emergence of functional brain networks"
+  authors: PJ Hellyer, B Jachs, C Clopath, R Leech
+  journal: NeuroImage 124, 85-95, 2016
+  link: http://arxiv.org/abs/1412.6325
+  id: 0
+
 - title: "Emergence of Functional Specificity in Balanced Networks with Synaptic Plasticity"
   authors: Sadeh S, Clopath C*, Rotter S*
   journal: PLoS Comp. Biol., 2015,  doi:10.1371/journal.pcbi.1004307
@@ -10,6 +18,13 @@
   journal: PLoS ONE, 2015,  doi:1    10.1371/journal.pone.0127547
   link: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0127547
   id: 1
+
+- title: "Long Term Plasticity, Biophysical Models."
+  authors: Clopath C
+  journal: Encyclopedia of Computational Neuroscience, 2014, 10.1007/978-1-4614-7320-6_351-1
+  link: http://link.springer.com/content/pdf/10.1007/978-1-4614-7320-6_351-1.pdf
+  pdf: Clopath14.pdf
+  id: 0
 
 - title: "Oscillations emerging from noise-driven steady state in networks with electrical synapses and subthreshold resonance"
   authors: Tchumatchenko T*, Clopath C*
