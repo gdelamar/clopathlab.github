@@ -14,6 +14,7 @@
 			- [Generic Linux](#generic-linux)
 			- [iOS and Android](#ios-and-android)
 		- [Use matlab](#use-matlab)
+		- [Use iPython/Jupyter notebook](#use-ipythonjupyter-notebook)
 	- [Parallel Computing](#parallel-computing)
 		- [Run a script in parallel](#run-a-script-in-parallel)
 - [!/bin/bash](#binbash)
@@ -150,6 +151,22 @@ For example:
   `scp ~/Downloads/license.lic <yourusername>@155.198.108.197:~/.matlab/R2016a_licenses/`
 
 7. That should work!
+
+### Use iPython/Jupyter notebook
+
+You can tunnel the ipython notebook to your local machine:
+
+* set up the ssh tunnel:
+
+  `ipython notebook --no-browser --port=1234`
+
+* locally, run:
+
+  `ssh -N -f -L localhost:1111:localhost:1234 remote_user@remote_host`
+
+  (replace with your usnername and the server address)
+
+Now, you can open your browser at http://localhost:1111 and run your code as if it were on the local machine.
 
 
 ## Parallel Computing
