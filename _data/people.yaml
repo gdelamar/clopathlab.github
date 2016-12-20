@@ -2,7 +2,7 @@
 - name: Claudia Clopath 
   position: Principal Investigator 
   image: claudia_cropped.jpg
-  link: claudia_clopath
+  link: http://www.bg.ic.ac.uk/research/c.clopath/members/claudia_clopath
 
 - name: Jacopo Bono 
   position: PhD Student 
@@ -10,15 +10,12 @@
 
 - name: Guillaume Pernelle 
   position: PhD Student 
-  image: Guillaume_cropped.jpg 
+  image: Guillaume_cropped.jpg
+  link: http://www.imperial.ac.uk/people/g.pernelle14
 
 - name: Sara Zanonne 
   position: PhD Student 
-  image: Sara_cropped.jpg 
-
-- name: Catriona Egan 
-  position: PhD Student, co-supervised by Paul Chadderton 
-  image: catriona_cropped.jpg 
+  image: Sara_cropped.jpg
 
 - name: Cher Bachar 
   position: PhD Student, co-supervised by Vincenzo De Paola and Anil Bharath 
@@ -26,7 +23,8 @@
 
 - name: Yann Sweeney 
   position: Post-doc 
-  image: yann_cropped.jpg 
+  image: yann_cropped.jpg
+  link: http://www.imperial.ac.uk/people/y.sweeney
 
 - name: Victor Pedrosa 
   position: PhD Student 
@@ -42,4 +40,20 @@
 
 - name: Wilten Nicola 
   position: Post-doc 
-  image: wilten_cropped.jpg 
+  image: wilten_cropped.jpg
+
+- name: Marie Tolkiehn
+  position: PhD Student
+  image: marie_cropped.jpg
+
+- name: Weerts Lotte
+  position: PhD Student
+  image: johndoe.png
+
+- name: Tunvez Boulic
+  position: PhD Student
+  image: johndoe.png
+
+- name: Christos Kaplanis
+  position: PhD Student
+  image: christos_cropped.jpg
