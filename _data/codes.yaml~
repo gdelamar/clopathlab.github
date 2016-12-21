@@ -1,9 +1,4 @@
 ---
-- title: Spatial structure from diffusive synaptic plasticity
-  hosting: ModelDB
-  link: https://senselab.med.yale.edu/modeldb/ShowModel.cshtml?model=190311
-  publications: [-1]
-
 - title: Network with electrical synapses and subthreshold resonance
   hosting: ModelDB
   link: http://senselab.med.yale.edu/modeldb/ShowModel.asp?model=168599

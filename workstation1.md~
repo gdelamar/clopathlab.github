@@ -219,10 +219,3 @@ Run a matlab function from a unix shell:
 ```matlab
 matlab -nodisplay -nodesktop -nojvm -nosplash -r  "try double2(2); catch; end; quit"
 ```
-# Cluster specs
-
-* CPU 1: Intel Xeon E5-2680v4 2.4 2400 14C 
-* CPU 2: Intel Xeon E5-2680v4 2.4 2400 14C 
-* System Memory: 256GB DDR4-2400 (8x32GB) 
-* GPU 1: NVIDIA Quadro K420 2GB DL-DVI(I)
-* GPU 2: NVIDIA Titan X 12GB
