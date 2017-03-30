@@ -1,4 +1,9 @@
 ---
+- title: "The Role of Neuromodulators in Cortical Plasticity. A Computational Perspective."
+  hosting: ModelDB
+  link: https://senselab.med.yale.edu/ModelDB/showModel.cshtml?model=222932
+  publications: [-4]
+
 - title: Spatial structure from diffusive synaptic plasticity
   hosting: ModelDB
   link: https://senselab.med.yale.edu/modeldb/ShowModel.cshtml?model=190311

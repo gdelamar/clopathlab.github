@@ -5,7 +5,7 @@
   link: http://www.bg.ic.ac.uk/research/c.clopath/members/claudia_clopath
 
 - name: Jacopo Bono 
-  position: PhD Student 
+  position: Post-doc
   image: Jacopo_cropped.jpg 
 
 - name: Guillaume Pernelle 
@@ -48,7 +48,7 @@
 
 - name: Weerts Lotte
   position: PhD Student
-  image: johndoe.png
+  image: lotte.jpg
 
 - name: Tunvez Boulic
   position: PhD Student
@@ -57,3 +57,9 @@
 - name: Christos Kaplanis
   position: PhD Student
   image: christos_cropped.jpg
+
+- name: Katharina Wilmes
+  position: Post-doc
+  image: katharina_cropped.jpg
+  link: http://www.imperial.ac.uk/people/k.wilmes
+
