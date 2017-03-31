@@ -1,6 +1,6 @@
 ---
 - title: "Overcoming catastrophic forgetting in neural networks."
-  authors: Kirkpatrick J, Pascanu R, Rabinowitz N, Veness J, Desjardins G, Rusu AA, Milan K, Quan J, Ramalho T, Grabska-Barwinska A, Hassabis D
+  authors: Kirkpatrick J, Pascanu R, Rabinowitz N, Veness J, Desjardins G, Rusu AA, Milan K, Quan J, Ramalho T, Grabska-Barwinska A, Hassabis D, Clopath C, Kumaran D, and Hadsell R
   journal: "Proceedings of the National Academy of Sciences. 2017 Mar 14:201611835."
   link: http://www.pnas.org/content/114/13/3521.abstract
   id: -5
