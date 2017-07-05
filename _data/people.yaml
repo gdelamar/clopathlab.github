@@ -6,7 +6,8 @@
 
 - name: Jacopo Bono 
   position: Post-doc
-  image: Jacopo_cropped.jpg 
+  image: Jacopo_cropped.jpg
+  link: http://www.imperial.ac.uk/people/j.bono13
 
 - name: Guillaume Pernelle 
   position: PhD Student 
@@ -41,6 +42,7 @@
 - name: Wilten Nicola 
   position: Post-doc 
   image: wilten_cropped.jpg
+  link: http://www.imperial.ac.uk/people/w.nicola
 
 - name: Marie Tolkiehn
   position: PhD Student
@@ -52,7 +54,7 @@
 
 - name: Tunvez Boulic
   position: PhD Student
-  image: johndoe.png
+  image: tunvez_cropped.jpg
 
 - name: Christos Kaplanis
   position: PhD Student
