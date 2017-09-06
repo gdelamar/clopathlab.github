@@ -1,15 +1,15 @@
 ---
 - title: EPSRC (Engineering and Physical Sciences Research Council)
   link: https://www.epsrc.ac.uk/
-  image: esprc.png
+  image: esprc.svg
 
 - title: Leverhulme Trust
   link: https://www.leverhulme.ac.uk/
-  image: leverhulme.png
+  image: leverhulme.svg
 
 - title: Wellcome Trust
   link: http://www.wellcome.ac.uk/
-  image: wellcome-logo-black.jpg
+  image: wellcome.svg
 
 - title: Google Faculty Research Award
   link: http://research.google.com/university/relations/research_awards.html
@@ -17,8 +17,8 @@
 
 - title: BBSRC (Biotechnology and Biological Sciences Research Council)
   link: http://www.bbsrc.ac.uk/
-  image: bbsrc.png
+  image: bbsrc.svg
 
 - title: The Royal Society
   link: https://royalsociety.org/
-  image: royalsociety3.png
+  image: royalsociety.svg
