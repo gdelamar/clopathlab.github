@@ -44,20 +44,16 @@
   image: wilten_cropped.jpg
   link: http://www.imperial.ac.uk/people/w.nicola
 
-- name: Marie Tolkiehn
-  position: PhD Student
-  image: marie_cropped.jpg
-
 - name: Weerts Lotte
-  position: PhD Student
+  position: PhD Student, co-supervised by Dan Goodman
   image: lotte.jpg
 
 - name: Tunvez Boulic
-  position: PhD Student
+  position: PhD Student, co-supervised by Paul Chadderton
   image: tunvez_cropped.jpg
 
 - name: Christos Kaplanis
-  position: PhD Student
+  position: PhD Student, co-supervised by Murray Shanahan
   image: christos_cropped.jpg
 
 - name: Katharina Wilmes
