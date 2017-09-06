@@ -2,36 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cd17ef7-85a0-4abb-add5-c1a80e2ef458" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/clopathlogo_final_small2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/esprc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/google-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/royalsociety3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/sponsor-bwfullres.eps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/sponsor-wofullres.eps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/wellcome-logo-black.eps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/wellcome-logo-black.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/wellcome-logo-black.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/wellcome-logo-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/wellcome-logo-white.eps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/wellcome-logo-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/wellcome-logos.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/Partnership Grants logo eps.eps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/clopathlogo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/clopathlogo2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/esprc.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/leverhulm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/nostrap-bbsrc-mono.eps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/bbsrc.png" afterPath="$PROJECT_DIR$/assets/images/bbsrc.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/leverhulme.png" afterPath="$PROJECT_DIR$/assets/images/leverhulme.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/fundings.yaml" afterPath="$PROJECT_DIR$/_data/fundings.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/people.yaml" afterPath="$PROJECT_DIR$/_data/people.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/publications.yaml" afterPath="$PROJECT_DIR$/_data/publications.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/_footer.html" afterPath="$PROJECT_DIR$/_includes/_footer.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/clopathlogo_final_small.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/clopathlogo_final_small2.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/noimage.html" afterPath="$PROJECT_DIR$/_layouts/noimage.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/funding.html" afterPath="$PROJECT_DIR$/funding.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/members/claudia_clopath.html" afterPath="$PROJECT_DIR$/members/claudia_clopath.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -76,17 +50,17 @@
         <entry file="file://$PROJECT_DIR$/funding.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1174">
-              <caret line="66" column="27" lean-forward="true" selection-start-line="66" selection-start-column="27" selection-end-line="66" selection-end-column="27" />
+              <caret line="66" column="27" lean-forward="false" selection-start-line="66" selection-start-column="27" selection-end-line="66" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="default.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="default.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/default.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="462">
-              <caret line="48" column="130" lean-forward="false" selection-start-line="48" selection-start-column="130" selection-end-line="48" selection-end-column="130" />
+              <caret line="48" column="134" lean-forward="false" selection-start-line="48" selection-start-column="134" selection-end-line="48" selection-end-column="134" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -104,11 +78,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="noimage.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="noimage.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_layouts/noimage.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1122">
-              <caret line="51" column="140" lean-forward="false" selection-start-line="51" selection-start-column="140" selection-end-line="51" selection-end-column="140" />
+              <caret line="51" column="144" lean-forward="false" selection-start-line="51" selection-start-column="144" selection-end-line="51" selection-end-column="144" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -120,7 +94,7 @@
         <entry file="file://$PROJECT_DIR$/members/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="572">
-              <caret line="26" column="6" lean-forward="true" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+              <caret line="26" column="6" lean-forward="false" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -130,7 +104,7 @@
         <entry file="file://$PROJECT_DIR$/_includes/_footer.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="990">
-              <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+              <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#p#0;n#footer#0;n#!!top" expanded="true" />
                 <element signature="e#112#118#0" expanded="true" />
@@ -143,7 +117,7 @@
         <entry file="file://$PROJECT_DIR$/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="436">
-              <caret line="669" column="0" lean-forward="true" selection-start-line="669" selection-start-column="0" selection-end-line="675" selection-end-column="1" />
+              <caret line="669" column="0" lean-forward="false" selection-start-line="669" selection-start-column="0" selection-end-line="675" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -178,8 +152,8 @@
         <option value="$PROJECT_DIR$/_data/fundings.yaml" />
         <option value="$PROJECT_DIR$/funding.html" />
         <option value="$PROJECT_DIR$/_includes/_footer.html" />
-        <option value="$PROJECT_DIR$/_layouts/noimage.html" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
+        <option value="$PROJECT_DIR$/_layouts/noimage.html" />
       </list>
     </option>
   </component>
@@ -383,12 +357,12 @@
       <workItem from="1499694564659" duration="963000" />
       <workItem from="1501499526396" duration="21000" />
       <workItem from="1502267674125" duration="2070000" />
-      <workItem from="1504689475313" duration="6982000" />
+      <workItem from="1504689475313" duration="7602000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15700000" />
+    <option name="totallyTimeSpent" value="16320000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1185" y="110" width="2296" height="2050" extended-state="0" />
@@ -767,7 +741,7 @@
     <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="436">
-          <caret line="669" column="0" lean-forward="true" selection-start-line="669" selection-start-column="0" selection-end-line="675" selection-end-column="1" />
+          <caret line="669" column="0" lean-forward="false" selection-start-line="669" selection-start-column="0" selection-end-line="675" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -775,7 +749,7 @@
     <entry file="file://$PROJECT_DIR$/funding.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1174">
-          <caret line="66" column="27" lean-forward="true" selection-start-line="66" selection-start-column="27" selection-end-line="66" selection-end-column="27" />
+          <caret line="66" column="27" lean-forward="false" selection-start-line="66" selection-start-column="27" selection-end-line="66" selection-end-column="27" />
           <folding />
         </state>
       </provider>
@@ -791,7 +765,7 @@
     <entry file="file://$PROJECT_DIR$/members/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="572">
-          <caret line="26" column="6" lean-forward="true" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+          <caret line="26" column="6" lean-forward="false" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
           <folding />
         </state>
       </provider>
@@ -799,7 +773,7 @@
     <entry file="file://$PROJECT_DIR$/_includes/_footer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="990">
-          <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#a#0;n#p#0;n#footer#0;n#!!top" expanded="true" />
             <element signature="e#112#118#0" expanded="true" />
@@ -807,20 +781,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/noimage.html">
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
-          <caret line="51" column="140" lean-forward="false" selection-start-line="51" selection-start-column="140" selection-end-line="51" selection-end-column="140" />
+        <state relative-caret-position="462">
+          <caret line="48" column="134" lean-forward="false" selection-start-line="48" selection-start-column="134" selection-end-line="48" selection-end-column="134" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+    <entry file="file://$PROJECT_DIR$/_layouts/noimage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="48" column="130" lean-forward="false" selection-start-line="48" selection-start-column="130" selection-end-line="48" selection-end-column="130" />
+        <state relative-caret-position="1122">
+          <caret line="51" column="144" lean-forward="false" selection-start-line="51" selection-start-column="144" selection-end-line="51" selection-end-column="144" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
