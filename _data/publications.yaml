@@ -1,4 +1,11 @@
 ---
+- title: "Modelling plasticity in dendrites: from single cells to networks"
+  authors: Bono J, Wilmes K, Clopath C
+  journal: "Current Opinion in Neurobiology, 2017, doi:10.1016/j.conb.2017.08.013"
+  link: "http://www.sciencedirect.com/science/article/pii/S0959438816302665"
+  id: -8
+  year: 2017
+
 - title: "From homeostasis to behavior: Balanced activity in an exploration of embodied dynamic environmental-neural interaction."
   authors: Hellyer P, Clopath C, Kehagia A, Turkheimer F, Leech R
   journal: "PLoS Comp. Biol., 2017, doi:10.1371/journal.pcbi.1005721"

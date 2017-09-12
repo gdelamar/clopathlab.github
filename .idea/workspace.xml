@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cd17ef7-85a0-4abb-add5-c1a80e2ef458" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/people.yaml" afterPath="$PROJECT_DIR$/_data/people.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/publications.yaml" afterPath="$PROJECT_DIR$/_data/publications.yaml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,7 +23,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="people.yaml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="people.yaml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_data/people.yaml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
@@ -33,11 +33,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="publications.yaml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="publications.yaml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_data/publications.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2115">
-              <caret line="141" column="0" lean-forward="false" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
+            <state relative-caret-position="90">
+              <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -111,13 +111,13 @@
         <option value="$PROJECT_DIR$/_data/codes.yaml" />
         <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/members/claudia_clopath.html" />
-        <option value="$PROJECT_DIR$/_data/publications.yaml" />
         <option value="$PROJECT_DIR$/_includes/_footer.html" />
         <option value="$PROJECT_DIR$/funding.html" />
         <option value="$PROJECT_DIR$/_data/fundings.yaml" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/_layouts/noimage.html" />
         <option value="$PROJECT_DIR$/_data/people.yaml" />
+        <option value="$PROJECT_DIR$/_data/publications.yaml" />
       </list>
     </option>
   </component>
@@ -323,12 +323,12 @@
       <workItem from="1502267674125" duration="2070000" />
       <workItem from="1504689475313" duration="9729000" />
       <workItem from="1504715620989" duration="625000" />
-      <workItem from="1505216861933" duration="10000" />
+      <workItem from="1505216861933" duration="359000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19082000" />
+    <option name="totallyTimeSpent" value="19431000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1676" height="1027" extended-state="6" />
@@ -680,14 +680,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_data/publications.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2115">
-          <caret line="141" column="0" lean-forward="false" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="436">
@@ -749,6 +741,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/publications.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
           <folding />
         </state>
       </provider>
