@@ -1,4 +1,11 @@
 ---
+- title: "Modeling somatic and dendritic spike mediated plasticity at the single neuron and network level"
+  authors: Bono J, Clopath C
+  journal: "Nature Communications, 2017, doi:10.1038/s41467-017-00740-z"
+  id: -9
+  year: 2017
+  link: "https://www.nature.com/articles/s41467-017-00740-z"
+
 - title: "Modelling plasticity in dendrites: from single cells to networks"
   authors: Bono J, Wilmes K, Clopath C
   journal: "Current Opinion in Neurobiology, 2017, doi:10.1016/j.conb.2017.08.013"
