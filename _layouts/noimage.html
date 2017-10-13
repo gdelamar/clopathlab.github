@@ -1,179 +1,89 @@
 ---
 theme :
-  name : bootstrap
+name : bootstrap
 ---
 {% include JB/setup %}
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
+    <meta charset="utf-8">
 
-  <title>{{ page.title }}</title>
-  <meta name="robots" content="noindex" />
-  {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
-  <meta name="author" content="{{ site.author.name }}">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <!--<meta name="robots" content="noindex" />-->
+    {% if page.description %}
+    <meta name="description" content="{{ page.description }}">
+    {% endif %}
+    <meta name="author" content="{{ site.author.name }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <link href="{{ ASSET_PATH }}/resources/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="{{ site.baseurl }}/assets/css/owl.theme.css" rel="stylesheet">
-  <link href="{{ site.baseurl }}/assets/css/owl.carousel.css" rel="stylesheet">
-  <link href="{{ site.baseurl }}/assets/css/magnific-popup.css" rel="stylesheet">
-  <link href="{{ site.baseurl }}/assets/css/simpletextrotator.css" rel="stylesheet">
-  <link href="{{ site.baseurl }}/assets/css/style.css" rel="stylesheet">
-  <link href="{{ site.baseurl }}/assets/css/animate.css" rel="stylesheet">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link href="http://www.bg.ic.ac.uk/research/c.clopath/assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="http://www.bg.ic.ac.uk/research/c.clopath/assets/css/owl.theme.css" rel="stylesheet">
+    <link href="http://www.bg.ic.ac.uk/research/c.clopath/assets/css/owl.carousel.css" rel="stylesheet">
+    <link href="http://www.bg.ic.ac.uk/research/c.clopath/assets/css/magnific-popup.css" rel="stylesheet">
+    <link href="http://www.bg.ic.ac.uk/research/c.clopath/assets/css/simpletextrotator.css" rel="stylesheet">
+    <link href="http://www.bg.ic.ac.uk/research/c.clopath/assets/css/style.css" rel="stylesheet">
+    <!--<link href="/assets/css/style.css" rel="stylesheet">-->
+    <link href="http://www.bg.ic.ac.uk/research/c.clopath/assets/css/animate.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="shortcut icon" href="http://www.bg.ic.ac.uk/research/c.clopath/assets/images/favicon.svg" >
 
-  <!--[if lt IE 9]>
-  <script src="{{ site.baseurl }}/assets/resources/respond/Respond.min.js"></script>
-  <![endif]-->
+    <!--[if lt IE 9]>
+    <script src="http://www.bg.ic.ac.uk/research/c.clopath/assets/resources/respond/Respond.min.js"></script>
+    <![endif]-->
 </head>
 
 
 <body>
 <div class="wrapper">
 
-  <!-- Navigation start -->
+    <!-- Navigation start -->
 
-  <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
-    <div class="container">
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-        <a class="navbar-brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
-      </div>
+    <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="http://www.bg.ic.ac.uk/research/c.clopath">
+                    <img style="width:250px; padding:0; margin-top:-13px; position:absolute"
+                         src="http://www.bg.ic.ac.uk/research/c.clopath/assets/images/clopathlogo_final_small2.svg"/></a>
+                </a>
+            </div>
 
-      <div class="collapse navbar-collapse navbar-ex1-collapse">
-        <ul class="nav navbar-nav navbar-right">
-          {% assign pages_list = site.pages %}
-          {% assign group = 'navigation' %}
-          {% include JB/pages_list %}
-        </ul>
-      </div>
-    </div>
-  </nav>
+            <div class="collapse navbar-collapse navbar-ex1-collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    {% assign pages_list = site.pages %}
+                    {% assign group = 'navigation' %}
+                    {% include JB/pages_list %}
+                </ul>
+            </div>
+        </div>
+    </nav>
 
-  <!-- Navigation end -->
 
-  <!-- Intro section start -->
 
-  <!--<section id="intro" class="section" style="position: relative; z-index: 0; background: none;">-->
+    <div class="container" id="titlemember">
+        <div class="page-header">
+            <h1>{{ page.pagetitle }} {% if page.tagline %}
+                <small>{{ page.tagline }}</small>
+                {% endif %}
+            </h1>
+        </div>
 
-    <!--<div class="container">-->
-
-      <!--<div class="row">-->
-
-        <!--<div class="col-md-12">-->
-
-          <!--<div class="hello wow bounceInDown animated" style="visibility: visible;">-->
-            <!--<h1>Computation Neuroscience Laboratory</h1>-->
-            <!--&lt;!&ndash;<h3><span class="rotate" style="text-shadow: black 0px 0px 0px; opacity: 1;"> Account Manager. | Customer Service Professional.</span></h3>&ndash;&gt;-->
-          <!--</div>-->
-
-          <!--<a href="#title">-->
-            <!--<div class="mouse-icon">-->
-              <!--<div class="wheel"></div>-->
-            <!--</div>-->
-          <!--</a>-->
-
-        <!--</div>-->
-
-      <!--</div>&lt;!&ndash; .row &ndash;&gt;-->
-
-    <!--</div>&lt;!&ndash; .container &ndash;&gt;-->
-  <!--</section>-->
-
-  <!-- Intro section end -->
-
-  <!-- Profile contact callout section -->
-
-  <!--<section id="profile-contact">-->
-
-    <!--<div class="container">-->
-
-      <!--<div class="row">-->
-
-        <!--<div class="col-sm-4 wow bounceInLeft animated" style="visibility: visible;">-->
-          <!--<div class="profile-item">-->
-            <!--<i class="fa fa-envelope-o"></i>-->
-            <!--<h5><SCRIPT TYPE="text/javascript">-->
-              <!--&lt;!&ndash;-->
-              <!--// protected email script by Joe Maller-->
-              <!--emailE='imperial.ac.uk'-->
-              <!--emailE=('c.clopath' + '@' + emailE)-->
-              <!--document.write('<A href="mailto:' + emailE + '">' + emailE + '</a>')-->
-              <!--//&ndash;&gt;-->
-            <!--</script>-->
-
-              <!--<NOSCRIPT>-->
-                <!--<em>Email address protected by JavaScript.<BR>-->
-                  <!--Please enable JavaScript to contact me.</em>-->
-              <!--</NOSCRIPT></h5>-->
-          <!--</div>-->
-        <!--</div>-->
-
-        <!--<div class="col-sm-4 wow bounceInUp animated" style="visibility: visible;">-->
-          <!--<div class="profile-item">-->
-            <!--<i class="fa fa-phone"></i>-->
-            <!--<h5>+44 (0)20 7594 1435 </h5>-->
-          <!--</div>-->
-        <!--</div>-->
-
-        <!--<div class="col-sm-4 wow bounceInRight animated" style="visibility: visible;">-->
-          <!--<div class="profile-item">-->
-            <!--<i class="fa fa-map-marker"></i>-->
-            <!--<h5>Imperial College London, UK</h5>-->
-          <!--</div>-->
-        <!--</div>-->
-
-      <!--</div>&lt;!&ndash; .row &ndash;&gt;-->
-
-    <!--</div>&lt;!&ndash; .container &ndash;&gt;-->
-
-  <!--</section>-->
-
-  <!-- Profile contact callout section -->
-
-  <div class="container" id="titlemember">
-    <div class="page-header">
-      <h1>{{ page.pagetitle }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h1>
+        <div class="row">
+            <div class="col-xs-12">
+                {{ content }}
+            </div>
+        </div>
+        {% include _footer.html %}
     </div>
 
-    <div class="row">
-      <div class="col-xs-12">
-        {{ content }}
-      </div>
-    </div>
-    {% include _footer.html %}
-  </div>
+    {% include JB/analytics %}
 
-  {% include JB/analytics %}
-  <script src="{{ ASSET_PATH }}/resources/jquery/jquery.min.js"></script>
-  <script src="{{ ASSET_PATH }}/resources/bootstrap/js/bootstrap.min.js"></script>
-  <!-- Background slider -->
-  <script src="{{ site.baseurl }}/assets/js/jquery.backstretch.min.js"></script>
-  <!-- OwlCarousel -->
-  <script src="{{ site.baseurl }}/assets/js/owl.carousel.min.js"></script>
-  <!-- Modal for portfolio -->
-  <script src="{{ site.baseurl }}/assets/js/jquery.magnific-popup.min.js"></script>
-  <!-- Text rotator -->
-  <script src="{{ site.baseurl }}/assets/js/jquery.simple-text-rotator.min.js"></script>
-  <!-- Waypoints -->
-  <script src="{{ site.baseurl }}/assets/js/jquery.waypoints.js"></script>
-  <!-- CountTo  -->
-  <script src="{{ site.baseurl }}/assets/js/jquery.countTo.js"></script>
-  <!-- WOW - Reveal Animations When You Scroll -->
-  <script src="{{ site.baseurl }}/assets/js/wow.min.js"></script>
-  <!-- Smooth scroll -->
-  <script src="{{ site.baseurl }}/assets/js/smoothscroll.js"></script>
-  <!-- Fitvids -->
-  <script src="{{ site.baseurl }}/assets/js/jquery.fitvids.js"></script>
-  <!-- Custom scripts -->
-  <script src="{{ site.baseurl }}/assets/js/custom.js"></script>
 </div>
 </body>
 </html>

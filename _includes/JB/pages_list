@@ -28,7 +28,7 @@ Usage:
     {% if node.title != null %}
       {% if group == null or group == node.group %}
       	{% if page.url == node.url %}
-      	<li class="active"><a href="{{ BASE_PATH }}{{node.url}}" class="active">
+      	<li class="active"><a href="http://www.bg.ic.ac.uk/research/c.clopath{{node.url}}" class="active">
       	    {% if node.linkname != null %}
                   	        {{node.linkname}}
                   	    {% else %}
@@ -36,7 +36,7 @@ Usage:
                   	    {% endif %}
       	</a></li>
       	{% else %}
-      	<li><a href="{{ BASE_PATH }}{{node.url}}">
+      	<li><a href="http://www.bg.ic.ac.uk/research/c.clopath{{node.url}}">
       	    {% if node.linkname != null %}
       	        {{node.linkname}}
       	    {% else %}

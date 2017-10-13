@@ -4,7 +4,7 @@ group: navigation
 linkname: research
 title: Research in Computational Neuroscience Laboratory, London, UK
 pagetitle : Research
-tagline: in the Computation Neuroscience Lab
+tagline: in the Computational Neuroscience Lab
 order: 2
 ---
 {% include JB/setup %}

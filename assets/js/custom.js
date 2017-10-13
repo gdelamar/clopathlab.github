@@ -34,7 +34,7 @@
 		 * Background image
 		/* ---------------------------------------------- */
 
-		$('#intro').backstretch(['/assets/images/southken_cropped_r.jpg']);
+		$('#intro').backstretch(['http://www.bg.ic.ac.uk/research/c.clopath/assets/images/southken_cropped_r.jpg']);
 
 		/* ---------------------------------------------- /*
 		 * Navbar
