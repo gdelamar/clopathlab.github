@@ -1,4 +1,9 @@
 ---
+- title: Sequential neuromodulation of Hebbian plasticity in reward-based navigation
+  hosting: ModelDB
+  link: http://modeldb.yale.edu/233396
+  publications: [-6]
+
 - title: Modeling Dendritic Spikes and Plasticity
   hosting: ModelDB
   link: https://senselab.med.yale.edu/ModelDB/showmodel.cshtml?model=232914
