@@ -2,7 +2,7 @@
 - title: "Modeling somatic and dendritic spike mediated plasticity at the single neuron and network level"
   authors: Bono J, Clopath C
   journal: "Nature Communications, 2017, doi:10.1038/s41467-017-00740-z"
-  id: -9
+  id: -11
   year: 2017
   link: "https://www.nature.com/articles/s41467-017-00740-z"
 
@@ -10,21 +10,34 @@
   authors: Bono J, Wilmes K, Clopath C
   journal: "Current Opinion in Neurobiology, 2017, doi:10.1016/j.conb.2017.08.013"
   link: "http://www.sciencedirect.com/science/article/pii/S0959438816302665"
-  id: -8
+  id: -10
   year: 2017
 
 - title: "From homeostasis to behavior: Balanced activity in an exploration of embodied dynamic environmental-neural interaction."
   authors: Hellyer P, Clopath C, Kehagia A, Turkheimer F, Leech R
   journal: "PLoS Comp. Biol., 2017, doi:10.1371/journal.pcbi.1005721"
   link: "http://doi.org/10.1371/journal.pcbi.1005721"
-  id : -7
+  id : -9
   year: 2017
-
 
 - title: "Sequential neuromodulation of Hebbian plasticity offers mechanism for effective reward-based navigation."
   authors: Brzosko Z*, Zannone S*, Schultz W, Clopath C#, Paulsen O#
   journal: "eLife, 2017, doi:10.7554/eLife.27756"
   link: https://elifesciences.org/articles/27756
+  id: -8
+  year: 2017
+
+- title: "Sparse synaptic connectivity is required for decorrelation and pattern separation in feedforward networks"
+  authors: "Cayco-Gajic A, Clopath C, Silver A"
+  journal: "Nature Communications, 2017, doi:10.1038/s41467-017-01109-y"
+  link: "https://www.nature.com/articles/s41467-017-01109-y"
+  id: -7
+  year: 2017
+
+- title: "Detection of axonal synapses in 3D two-photon images"
+  authors: Bass C, Helkkula P, De Paola V, Clopath C, Bharath A
+  journal: "PLoS ONE, 2017, https://doi.org/10.1371/journal.pone.0183309"
+  link: "http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0183309"
   id: -6
   year: 2017
 

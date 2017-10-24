@@ -8,32 +8,46 @@ order: 1
 ---
 {% include JB/setup %}
 
-{% for publication in site.data.publications %}
 
-<div class ="row">
-<h3 class="publititle">{{ publication.title }}</h3>
-    <div class="col-md-9">
-        <h4>{{ publication.authors }}</h4>
 
-        {% if publication.link != null %}
-        <a href="{{ publication.link}}" target="_blank"> {{ publication.journal }} </a>
-        {% else %}
-        {{ publication.journal }}
+{% for year in (2007..2030) reversed %}
+    {% assign counter = 0 %}
+    {% for publication in site.data.publications %}
+        {% if publication.year == year %}
+            {% assign counter=counter | plus:1 %}
         {% endif %}
+    {% endfor %}
 
-    </div>
-    <div class="col-md-3 text-center">
-        {% if publication.pdf != null %}
-        <br/>
-        <a href="http://www.bg.ic.ac.uk/research/c.clopath/publications/{{ publication.pdf}}">
-            <i class="fa fa-3x fa-file-pdf-o"></i>
-        </a>
-        {% endif %}
-    </div>
-</div>
+    {% if counter >=1 %}
+        <h2>{{ year }}</h2>
+        {% for publication in site.data.publications %}
+            {% if publication.year == year %}
 
+                <div class ="row">
+                <h3 class="publititle">{{ publication.title }}</h3>
+                    <div class="col-md-9">
+                        <h4>{{ publication.authors }}</h4>
 
+                        {% if publication.link != null %}
+                        <a href="{{ publication.link}}" target="_blank"> {{ publication.journal }} </a>
+                        {% else %}
+                        {{ publication.journal }}
+                        {% endif %}
 
+                    </div>
+                    <div class="col-md-3 text-center">
+                        {% if publication.pdf != null %}
+                        <br/>
+                        <a href="http://www.bg.ic.ac.uk/research/c.clopath/publications/{{ publication.pdf}}">
+                            <i class="fa fa-3x fa-file-pdf-o"></i>
+                        </a>
+                        {% endif %}
+                    </div>
+                </div>
+                <hr/>
+            {% endif %}
 
-<hr/>
+        {% endfor %}
+    {% endif %}
+
 {% endfor %}
