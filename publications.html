@@ -9,8 +9,8 @@ order: 1
 {% include JB/setup %}
 
 
-
-{% for year in (2007..2030) reversed %}
+{% capture y %}{{ 'now' | date: "%Y" }}{% endcapture %}
+{% for year in (2007..y) reversed %}
     {% assign counter = 0 %}
     {% for publication in site.data.publications %}
         {% if publication.year == year %}
