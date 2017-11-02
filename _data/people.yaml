@@ -9,11 +9,6 @@
   image: Jacopo_cropped.jpg
   link: http://www.imperial.ac.uk/people/j.bono13
 
-- name: Guillaume Pernelle 
-  position: PhD Student 
-  image: Guillaume_cropped.jpg
-  link: http://www.imperial.ac.uk/people/g.pernelle14
-
 - name: Sara Zannone
   position: PhD Student 
   image: Sara_cropped.jpg
@@ -34,10 +29,6 @@
 - name: Darije Custovic 
   position: PhD Student, co-supervised by Adam Hampshire 
   image: johndoe.png 
-
-- name: Peter Hellyer 
-  position: Post-doc, Sir Henry Wellcome Postdoctoral Fellow 
-  image: peter_cropped.jpg 
 
 - name: Wilten Nicola 
   position: Post-doc 
@@ -60,4 +51,12 @@
   position: Post-doc
   image: katharina_cropped.jpg
   link: http://www.imperial.ac.uk/people/k.wilmes
+
+- name: Darije Custovic 
+  position: PhD Student, co-supervised by Adam Hampshire 
+  image: johndoe.png 
+
+- name: Amadeus Maes 
+  position: MRes Student, co-supervised by Mauricio Barahona
+  image: johndoe.png 
 

@@ -2,7 +2,7 @@
 - title: "Modeling somatic and dendritic spike mediated plasticity at the single neuron and network level"
   authors: Bono J, Clopath C
   journal: "Nature Communications, 2017, doi:10.1038/s41467-017-00740-z"
-  id: -11
+  id: -12
   year: 2017
   link: "https://www.nature.com/articles/s41467-017-00740-z"
 
@@ -10,20 +10,27 @@
   authors: Bono J, Wilmes K, Clopath C
   journal: "Current Opinion in Neurobiology, 2017, doi:10.1016/j.conb.2017.08.013"
   link: "http://www.sciencedirect.com/science/article/pii/S0959438816302665"
-  id: -10
+  id: -11
   year: 2017
 
 - title: "From homeostasis to behavior: Balanced activity in an exploration of embodied dynamic environmental-neural interaction."
   authors: Hellyer P, Clopath C, Kehagia A, Turkheimer F, Leech R
   journal: "PLoS Comp. Biol., 2017, doi:10.1371/journal.pcbi.1005721"
   link: "http://doi.org/10.1371/journal.pcbi.1005721"
-  id : -9
+  id : -10
   year: 2017
 
 - title: "Sequential neuromodulation of Hebbian plasticity offers mechanism for effective reward-based navigation."
   authors: Brzosko Z*, Zannone S*, Schultz W, Clopath C#, Paulsen O#
   journal: "eLife, 2017, doi:10.7554/eLife.27756"
   link: https://elifesciences.org/articles/27756
+  id: -9
+  year: 2017
+
+- title: "Deprivation-Induced Homeostatic Spine Scaling In Vivo Is Localized to Dendritic Branches that Have Undergone Recent Spine Loss"
+  authors: Samuel J. Barnes, Eleonora Franzoni, R. Irene Jacobsen, Ferenc Erdelyi, Gabor Szabo, Claudia Clopath, Georg B. Keller, Tara Keck
+  journal: "Cell, 2017, doi:10.1016/j.neuron.2017.09.052"
+  link: https://www.cell.com/neuron/abstract/S0896-6273(17)30921-2
   id: -8
   year: 2017
 
