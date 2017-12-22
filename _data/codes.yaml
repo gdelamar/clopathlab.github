@@ -1,4 +1,10 @@
 ---
+
+- title: Supervised learning in spiking neural networks with FORCE training
+  hosting: ModelDB
+  link: https://senselab.med.yale.edu/modeldb/ShowModel.cshtml?model=190565
+  publications: [-13]
+
 - title: Sequential neuromodulation of Hebbian plasticity in reward-based navigation
   hosting: ModelDB
   link: http://modeldb.yale.edu/233396

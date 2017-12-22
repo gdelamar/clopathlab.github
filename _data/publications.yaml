@@ -1,4 +1,11 @@
 ---
+- title: "Supervised learning in spiking neural networks with FORCE training"
+  authors: Nicola W, Clopath C
+  journal: "Nature Communications, 2017, doi:10.1038/s41467-017-01827-3"
+  id: -13
+  year: 2017
+  link: "https://www.nature.com/articles/s41467-017-01827-3"
+
 - title: "Modeling somatic and dendritic spike mediated plasticity at the single neuron and network level"
   authors: Bono J, Clopath C
   journal: "Nature Communications, 2017, doi:10.1038/s41467-017-00740-z"
