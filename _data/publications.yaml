@@ -1,4 +1,11 @@
 ---
+- title: "Size-Dependent Axonal Bouton Dynamics following Visual Deprivation In Vivo"
+  authors: Sammons RP, Clopath C, Barnes SJ
+  journal: "Cell Reports, 2018, doi:10.1016/j.celrep.2017.12.065"
+  id: -14
+  year: 2018
+  link: "http://www.cell.com/cell-reports/abstract/S2211-1247(17)31902-2"
+
 - title: "Supervised learning in spiking neural networks with FORCE training"
   authors: Nicola W, Clopath C
   journal: "Nature Communications, 2017, doi:10.1038/s41467-017-01827-3"
