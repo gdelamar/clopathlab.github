@@ -1,4 +1,11 @@
 ---
+- title: "Gap junction plasticity as a mechanism to regulate network-wide oscillations"
+  authors: Pernelle G, Nicola W, Clopath C
+  journal: “Plos Comp. Biol., 2018, doi:10.1371/journal.pcbi.1006025”
+  id: -16
+  year: 2018
+  link: "http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006025"
+
 - title: "Activity-Dependent Downscaling of Subthreshold Synaptic Inputs during Slow-Wave-Sleep-like Activity In Vivo"
   authors: Gonzalez-Rueda A, Pedrosa V, Feord RC, Clopath C, Paulsen O
   journal: “Neuron, 2018, doi:10.1016/j.neuron.2018.01.047”
