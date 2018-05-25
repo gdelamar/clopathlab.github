@@ -1,14 +1,21 @@
 ---
+- title: ON-OFF receptive fields in auditory cortex diverge during development and contribute to directional sweep selectivity
+  authors: Sollini J, Chapuis G, Clopath C, Chadderton P
+  journal: Nature Communications, 2018, doi:10.1038/s41467-018-04548-3
+  id: -17
+  year: 2018
+  link: https://www.nature.com/articles/s41467-018-04548-3
+
 - title: "Gap junction plasticity as a mechanism to regulate network-wide oscillations"
   authors: Pernelle G, Nicola W, Clopath C
-  journal: “Plos Comp. Biol., 2018, doi:10.1371/journal.pcbi.1006025”
+  journal: Plos Comp. Biol., 2018, doi:10.1371/journal.pcbi.1006025
   id: -16
   year: 2018
-  link: "http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006025"
+  link: http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006025
 
 - title: "Activity-Dependent Downscaling of Subthreshold Synaptic Inputs during Slow-Wave-Sleep-like Activity In Vivo"
   authors: Gonzalez-Rueda A, Pedrosa V, Feord RC, Clopath C, Paulsen O
-  journal: “Neuron, 2018, doi:10.1016/j.neuron.2018.01.047”
+  journal: Neuron, 2018, doi:10.1016/j.neuron.2018.01.047
   id: -15
   year: 2018
   link: "http://www.cell.com/neuron/abstract/S0896-6273(18)30072-2"
