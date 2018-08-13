@@ -1,4 +1,11 @@
 ---
+- title: 'Continual Reinforcement Learning with Complex Synapses'
+  authors: Kaplanis C, Shanahan M, Clopath C
+  journal:  International Conference on Machine Learning, 2018,  PMLR 80:2497-2506
+  id: -20
+  year: 2018
+  link: http://proceedings.mlr.press/v80/kaplanis18a.html
+
 - title: 'Chaos in homeostatically regulated neural systems'
   authors: Nicola W, Hellyer PJ, Campbell SA , Clopath C
   journal: Chaos, 2018, doi:10.1063/1.5026489
