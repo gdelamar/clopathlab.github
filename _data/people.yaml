@@ -4,10 +4,20 @@
   image: claudia_cropped.jpg
   link: http://www.bg.ic.ac.uk/research/c.clopath/members/claudia_clopath
 
-- name: Jacopo Bono 
+- name: Wilten Nicola 
+  position: Post-doc 
+  image: wilten_cropped.jpg
+  link: http://www.imperial.ac.uk/people/w.nicola
+
+- name: Katharina Wilmes
   position: Post-doc
-  image: Jacopo_cropped.jpg
-  link: http://www.imperial.ac.uk/people/j.bono13
+  image: katharina_cropped.jpg
+  link: http://www.imperial.ac.uk/people/k.wilmes
+
+- name: Johnatan (Yonatan) Aljadeff 
+  position: Post-doc
+  image: yonatan.jpg 
+  link: https://aljadeff.wordpress.com/
 
 - name: Sara Zannone
   position: PhD Student 
@@ -17,11 +27,6 @@
   position: PhD Student, co-supervised by Vincenzo De Paola and Anil Bharath 
   image: Cher_cropped.jpg 
 
-- name: Yann Sweeney 
-  position: Post-doc 
-  image: yann_cropped.jpg
-  link: http://www.imperial.ac.uk/people/y.sweeney
-
 - name: Victor Pedrosa 
   position: PhD Student 
   image: Victor_cropped.jpg
@@ -30,11 +35,6 @@
 - name: Darije Custovic 
   position: PhD Student, co-supervised by Adam Hampshire 
   image: johndoe.png 
-
-- name: Wilten Nicola 
-  position: Post-doc 
-  image: wilten_cropped.jpg
-  link: http://www.imperial.ac.uk/people/w.nicola
 
 - name: Weerts Lotte
   position: PhD Student, co-supervised by Dan Goodman
@@ -48,16 +48,21 @@
   position: PhD Student, co-supervised by Murray Shanahan
   image: christos_cropped.jpg
 
-- name: Katharina Wilmes
-  position: Post-doc
-  image: katharina_cropped.jpg
-  link: http://www.imperial.ac.uk/people/k.wilmes
-
 - name: Amadeus Maes 
-  position: MRes Student, co-supervised by Mauricio Barahona
-  image: johndoe.png 
+  position: PhD Student, co-supervised by Mauricio Barahona
+  image: amadeus.jpg 
 
-- name: Johnatan (Yonatan) Aljadeff 
-  position: Post-doc
-  image: yonatan.jpg 
+- name: Barbara Feulner
+  position: PhD Student
+  image: barbara_cropped.jpg
+
+- name: Douglas Feitosa Tome
+  position: PhD Student
+  image: douglas_cropped.png
+
+- name: Grace Angwy
+  position: MRes Student, co-supervised by Andrei Kozlov
+  image: grace.jpg
+
+
 
